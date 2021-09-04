@@ -2,7 +2,7 @@
 
 
 
-## I am the pre-final year student of Electronics and Telecommunication. I am pursuing my Degree from Savitribai Phule Pune University i have grasp knowledge about electronics and technical field i have good knowledge about hardware now i am very much passionate about Cloud technology ,Networking, Network security, embedded systems, linux ,Devops python (Data science)
+## I am the pre-final year student of M.Sc.(Mathematics). I am pursuing my Degree from  k.g. arts and science college i am not from technical background, but i want to move my carrier in cloud and devops field i have grasp knowledge about cloud and devops field, now i am very much passionate about Cloud technology ,Networking, Network security, embedded systems, linux ,Devops python (Data science)
 
 - 🔭 I'm a multicloud certified guy
 - 🌱 I’m currently learning more about DevOps Tools
@@ -34,12 +34,12 @@
  <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" height="200" width="350">
  <h3> Find me around the web 🌎:</h3>
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/RushabhMahale1) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rushabh-mahale-9507701a5/)   
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />]() [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abhinav-dubey-b30a73161)   
 
 </td>
   <tr>
  </table>
 <h2 >It is just the beginning.......</h2>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek7389&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinav765&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </div>
