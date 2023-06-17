@@ -2,12 +2,12 @@
 
 
 
-## I am student of M.Sc.(Mathematics). I am pursuing my Degree from  k.g. arts and science college i am not from technical background, but i want to move my carrier in cloud and devops field i have grasp knowledge about cloud and devops field, now i am very much passionate about Cloud technology ,Networking, Network security, embedded systems, linux ,Devops python (Data science)
+## I am student of M.Sc.(Mathematics). I am pursuing my Degree from  k.g. arts and science college i am not from technical background, but i want to move my carrier in cloud and devops field i have grasp knowledge about cloud and devops field, now i am very much passionate about Cloud technology , linux ,Devops
 
-- 🔭 I'm a multicloud certified guy
-- 🌱 I’m currently learning more about DevOps Tools
-- 👯 I’m looking to collaborate with other cloud enthusiasts to learn & grow together
-- 🥅 2021 Goals: Contribute more to Open Source projects which are related to cloud domain
+- 🔭 I'm a CDAC certified guy
+- 🌱 I’m currently learning more about DevOps Tools and cloud
+- 👯 I’m looking to collaborate with other cloud and DevOps enthusiasts to learn & grow together
+- 🥅 2023 Goals: Contribute more to Open Source projects which are related to cloud and DevOps domain
 - ⚡ Hobbies: Trekking, listening songs & playing basketball
 
 <br />
