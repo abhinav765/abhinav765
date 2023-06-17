@@ -2,30 +2,33 @@
 
 
 
-## I am student of M.Sc.(Mathematics). I am pursuing my Degree from  k.g. arts and science college i am not from technical background, but i want to move my carrier in cloud and devops field i have grasp knowledge about cloud and devops field, now i am very much passionate about Cloud technology , linux ,Devops
+## I am Pursuing C-DAC(DAC). I have done my M.Sc(Mathematics) from  k.g. arts and science college i am not from technical background, but i want to move my carrier in cloud and devops field i have grasp knowledge about cloud and devops field, now i am very much passionate about Cloud technology , linux ,Devops...
 
 - 🔭 I'm a CDAC certified guy
 - 🌱 I’m currently learning more about DevOps Tools and cloud
 - 👯 I’m looking to collaborate with other cloud and DevOps enthusiasts to learn & grow together
 - 🥅 2023 Goals: Contribute more to Open Source projects which are related to cloud and DevOps domain
-- ⚡ Hobbies: Trekking, listening songs & playing basketball
+- ⚡ Hobbies: Trekking, listening songs & playing cricket
 
 <br />
 <table scrolling=no>
- <tr>
-  <td><h3>Languages and Tools 💻:</h3>
-<br>
 
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="50" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"></code>
-<code><img height="50" src="https://www.pngitem.com/pimgs/m/3-31510_svg-kubernetes-logo-hd-png-download.png"></code>
-<code><img height="50" src="https://image.pngaaa.com/138/619138-middle.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Eucalyp-Deus_Linux.png"></code>
-<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png"></code>
-<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png"></code>
+
+### Languages and Tools 🛠 
+![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
+![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
+![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
+![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
 <br>
 <br>
 
