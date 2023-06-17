@@ -3,6 +3,7 @@
 
 
 ## I am Pursuing C-DAC(DAC). I have done my M.Sc(Mathematics) from  k.g. arts and science college i am not from technical background, but i want to move my carrier in cloud and devops field i have grasp knowledge about cloud and devops field, now i am very much passionate about Cloud technology , linux ,Devops...
+## !! Be Helpful, keep your feet on the ground and keep reaching for stars. !! ##
 
 - 🔭 I'm a CDAC certified guy
 - 🌱 I’m currently learning more about DevOps Tools and cloud
