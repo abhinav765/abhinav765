@@ -16,7 +16,7 @@
   <td><h3>Languages and Tools 💻:</h3>
 <br>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"></code>
 <code><img height="20" src="https://www.pngitem.com/pimgs/m/3-31510_svg-kubernetes-logo-hd-png-download.png"></code>
