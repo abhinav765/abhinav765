@@ -2,7 +2,7 @@
 
 
 
-## I am the pre-final year student of M.Sc.(Mathematics). I am pursuing my Degree from  k.g. arts and science college i am not from technical background, but i want to move my carrier in cloud and devops field i have grasp knowledge about cloud and devops field, now i am very much passionate about Cloud technology ,Networking, Network security, embedded systems, linux ,Devops python (Data science)
+## I am student of M.Sc.(Mathematics). I am pursuing my Degree from  k.g. arts and science college i am not from technical background, but i want to move my carrier in cloud and devops field i have grasp knowledge about cloud and devops field, now i am very much passionate about Cloud technology ,Networking, Network security, embedded systems, linux ,Devops python (Data science)
 
 - 🔭 I'm a multicloud certified guy
 - 🌱 I’m currently learning more about DevOps Tools
