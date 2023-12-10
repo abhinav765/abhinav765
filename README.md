@@ -8,7 +8,7 @@
 - 🔭 I'm a CDAC certified guy
 - 🌱 I’m currently learning more about DevOps Tools and cloud
 - 👯 I’m looking to collaborate with other cloud and DevOps enthusiasts to learn & grow together
-- 🥅 2023 Goals: Contribute more to Open Source projects which are related to cloud and DevOps domain
+- 🥅 2024 Goals: Contribute more to Open Source projects which are related to cloud and DevOps domain
 - ⚡ Hobbies: Trekking, listening songs & playing cricket
 
 <br />
